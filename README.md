@@ -28,7 +28,7 @@ _Busca la clase TallerJPA y dale Click Derecho, ejecutar con java_
 _herramientas_
 
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Spring Boot](https://spring.io/projects/spring-boot) - Framework
 
 ## Autores ✒️
 
