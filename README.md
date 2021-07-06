@@ -15,10 +15,6 @@ Usa una base de datos Postgresql
 
 _Crear la base de datos con el nombre taller_jpa_
 
-```
-Da un ejemplo
-```
-
 ### Instalación 🔧
 
 _Luego de imsportar el proyecto maven, ejecutar mvn clean -U_
@@ -36,7 +32,7 @@ _herramientas_
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
 
 * **Byron Segovvia** - *Trabajo Inicial*
 * Comenta a otros sobre este proyecto 📢
