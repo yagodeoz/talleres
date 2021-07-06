@@ -1,6 +1,6 @@
 # Talleres De spring Boot
 
-_Talleres de uso de spring starter, aplicando el principio KISS  _
+Talleres de uso de spring starter, aplicando el principio KISS
 
 ## Comenzando 🚀
 
