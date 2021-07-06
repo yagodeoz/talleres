@@ -1,6 +1,6 @@
-# Título del Proyecto
+# Talleres De spring Boot
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Talleres de uso de spring starter, aplicando el principio KISS  _
 
 ## Comenzando 🚀
 
