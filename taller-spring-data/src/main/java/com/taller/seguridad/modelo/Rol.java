@@ -24,7 +24,7 @@ public class Rol implements Serializable {
 
 	private Long id;
 	private String rol;
-	
+	private String estado;
 	
 	private List<UsuarioRol> listaUsuarioRoles;
 
@@ -58,7 +58,12 @@ public class Rol implements Serializable {
 	public void setListaUsuarioRoles(List<UsuarioRol> listaUsuarioRoles) {
 		this.listaUsuarioRoles = listaUsuarioRoles;
 	}
-	
-	
 
+	public String getEstado() {
+		return estado;
+	}
+
+	public void setEstado(String estado) {
+		this.estado = estado;
+	}
 }
